@@ -18,7 +18,7 @@ Este projeto implementa um sistema de gerenciamento de pedidos que simula um flu
 ## **Tecnologias Utilizadas**
 
 - **Python 3.10+**
-- Design Patterns: _Factory Method, Template, Observer, Facade_.
+- Design Patterns: _Factory Method, Template, Strategy, Facade, Observer_.
 - Princípios **SOLID**.
 
 ---
